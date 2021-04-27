@@ -1,5 +1,5 @@
 //
-// Created by apshi on 9/2/2019.
+// Created by team on 9/2/2019.
 //
 // New implementation of backward chaining using C++ objects and more efficient searching
 
